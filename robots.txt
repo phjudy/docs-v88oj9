@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-m38bzb.shadowdiary.com/sitemap.xml
